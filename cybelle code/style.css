@@ -1,7 +1,13 @@
 body{
-    background-color: black;
+    background-color: #3B3B3B;
 }
 p{
-    color: bisque;
-    width: 120px;
+    color: #C45C8F;
+    font-size: 64px;
+}
+h1{
+    display: flex;
+    color: #F30092;
+    font-size: 26px;
+
 }
